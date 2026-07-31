@@ -1,0 +1,14 @@
+# Ignore config with secrets
+config.php
+
+# Ignore runtime data and logs
+data/
+logs/
+
+# OS & Environment files
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+.idea/
+.vscode/
