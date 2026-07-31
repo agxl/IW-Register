@@ -62,7 +62,7 @@ Forget spam. We support natively integrated setups for:
 This project is licensed under the **MIT License**.
 
 > **Developer:** [Andy Goldau](https://andy-goldau.de/) <br>
-> **Copyright:** © 2026 WI-Register by PanelLayer, a brand of Subdomain LTD and managed on behalf of GoMaKe UG. All rights reserved.  
+> **Copyright:** © 2026 IW-Register by PanelLayer, a brand of Subdomain LTD and managed on behalf of GoMaKe UG. All rights reserved.  
 > **Product Page:** [https://iw-register.panellayer.com/](https://iw-register.panellayer.com/)  
 > **Live Demo:** [https://demo.iw-register.panellayer.com/](https://demo.iw-register.panellayer.com/)  
 > **Project:** [https://panellayer.com/](https://panellayer.com/)
