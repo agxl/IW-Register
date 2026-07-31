@@ -1,11 +1,11 @@
 <div align="center">
-  <h1>🚀 WI-Register</h1>
+  <h1>🚀 IW-Register</h1>
   <p><b>The Ultimate, Database-Free InterWorx Registration Portal</b></p>
   <p>
     <i>Developed by Andy Goldau | © 2026 PanelLayer (Subdomain LTD) & GoMaKe UG</i>
   </p>
   <p>
-    📦 <b>Product Page:</b> <a href="https://iw-register.panellayer.com/">iw-Register</a> &nbsp;|&nbsp;
+    📦 <b>Product Page:</b> <a href="https://iw-register.panellayer.com/">IW-Register</a> &nbsp;|&nbsp;
     🧪 <b>Live Demo:</b> <a href="https://demo.iw-register.panellayer.com/">Demo</a> &nbsp;|&nbsp;
     🌐 <b>Project:</b> <a href="https://panellayer.com/">PanelLayer</a>
   </p>
